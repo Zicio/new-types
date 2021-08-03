@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wb88ruhdfksxjvtl?svg=true)](https://ci.appveyor.com/project/Zicio/new-types)
